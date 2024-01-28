@@ -1,0 +1,16 @@
+gr\val\model\QuestionImpl.class
+gr\val\service\QuestionService.class
+gr\val\ServletInitializer.class
+gr\val\model\Question.class
+gr\val\dao\QuestionDAOImpl.class
+gr\val\postgres\PostgresManager.class
+gr\val\model\Topic.class
+gr\val\model\TopicImpl.class
+gr\val\service\QuestionServiceImpl.class
+gr\val\config\MvcConfiguration.class
+gr\val\parser\QuestionParser.class
+gr\val\controller\QuestionController.class
+gr\val\CheatSheet.class
+gr\val\util\ValUtils.class
+gr\val\dao\QuestionDAO.class
+gr\val\util\ConfigProperties.class
